@@ -1,0 +1,3 @@
+/home/hexon/my_geant4_projects/geant4-neutron-sim6/build/CMakeFiles/neutronSim.dir
+/home/hexon/my_geant4_projects/geant4-neutron-sim6/build/CMakeFiles/edit_cache.dir
+/home/hexon/my_geant4_projects/geant4-neutron-sim6/build/CMakeFiles/rebuild_cache.dir
