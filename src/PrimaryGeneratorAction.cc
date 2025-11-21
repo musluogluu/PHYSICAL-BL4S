@@ -5,7 +5,7 @@
 #include "G4ThreeVector.hh"
 #include "G4ParticleDefinition.hh"
 #include "G4Event.hh"
-
+//commit
 PrimaryGeneratorAction::PrimaryGeneratorAction() {
     fParticleGun = new G4ParticleGun(1);
 
